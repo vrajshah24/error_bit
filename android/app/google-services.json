@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767984283086",
+    "project_id": "error-bit",
+    "storage_bucket": "error-bit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767984283086:android:2695ff21f20d55092b8f9f",
+        "android_client_info": {
+          "package_name": "com.example.error_bit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767984283086-mgcn8dku7srmn12uqsgv3sdg422kukig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc7o2mog1qJRQSZL01etPOCEoD3Jf55JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767984283086-mgcn8dku7srmn12uqsgv3sdg422kukig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
